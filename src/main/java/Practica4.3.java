@@ -1,6 +1,6 @@
 public class Practica {
     public static void main(String[] args) {
-        import java.util.Scanner;
+      import java.util.Scanner;
         void main() {
             Scanner sc = new Scanner(System.in);
             System.out.print("Introduce tu año de nacimiento:");
